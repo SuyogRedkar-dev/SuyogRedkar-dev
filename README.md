@@ -24,24 +24,11 @@ I'm a passionate **JavaScript developer** specializing in the **MERN stack** wit
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Portfolio Site** | A responsive portfolio built using React | React, CSS, Netlify |
-| **Auth API** | A Node.js/Express REST API with JWT authentication | Node.js, Express, JWT, MongoDB |
-| **File Upload Service** | Secure file uploader using Multer and AWS S3 | Node.js, Express, Multer, AWS |
-| **Email Automation** | Custom mailer built with Nodemailer | Node.js, Nodemailer, Gmail API |
-
-> 👉 Check out my pinned repositories below for code samples.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuyogRedkar-dev&show_icons=true&theme=radical" alt="stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuyogRedkar-dev&theme=radical&hide_border=false" width="48%"/>
 </p>
 
 ---
@@ -58,9 +45,8 @@ I'm a passionate **JavaScript developer** specializing in the **MERN stack** wit
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- Email: yourname@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/suyog-redkar-a02142170/)
+- Email: suyogredkar.ireland@gmail.com
 
 ---
 
