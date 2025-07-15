@@ -45,7 +45,7 @@ I'm a passionate **JavaScript developer** specializing in the **MERN stack** wit
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/suyog-redkar-a02142170/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/suyog-redkar-a02142170/)
 - Email: suyogredkar.ireland@gmail.com
 
 ---
