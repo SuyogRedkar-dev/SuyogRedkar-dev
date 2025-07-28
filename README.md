@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]!
+# 👋 Hey there, I'm Suyog Redkar!
 
 ## 🚀 Full Stack Developer | Aspiring DevOps Engineer
 
@@ -24,20 +24,12 @@ I'm a passionate **JavaScript developer** specializing in the **MERN stack** wit
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyogRedkar-dev&show_icons=true&theme=radical" alt="stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SuyogRedkar-dev&theme=radical&hide_border=false" width="48%"/>
-</p>
-
----
-
 ### 🛠️ Currently Learning
 
 - Docker & containerization
 - CI/CD with GitHub Actions
 - Infrastructure-as-Code (Terraform)
+- Kubernetes
 - AWS Lambda, EC2, and S3
 - Monitoring & logging tools (Prometheus, Grafana)
 
